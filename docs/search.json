@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Siri S. Eide",
     "section": "",
-    "text": "Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit. Some sort of collage of my works or some shit."
+    "text": "::: grid ::: {.g-col-12 .g-col-sm-6}  :::"
+  },
+  {
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "Works",
+    "section": "",
+    "text": "A list of my works can be found here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Siri is an Oslo based composer, working mainly with instrumental music.\nAfter completing a MSc in Physics and Mathematics at the Norwegian University of Science and Technology, Siri has gone on to study Composition at the Norwegian Academy of Music, while simultaneously working towards a PhD in Deep Learning."
   }
 ]
