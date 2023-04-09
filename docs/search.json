@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Siri S. Eide",
     "section": "",
-    "text": "::: grid ::: {.g-col-12 .g-col-sm-6}  :::"
+    "text": "::: {.g-col-0 .g-col-sm-12} \n\n:::"
   },
   {
     "objectID": "works.html",
