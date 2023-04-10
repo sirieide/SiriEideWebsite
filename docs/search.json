@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Siri S. Eide",
     "section": "",
-    "text": "::: {.g-col-0 .g-col-sm-12} \n\n:::"
+    "text": "![](images/DSC_0494_crop_vertical.jpg){width=“100%”}"
   },
   {
     "objectID": "works.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Siri S. Eide",
     "section": "",
-    "text": "Siri is an Oslo based composer, working mainly with instrumental music.\nAfter completing a MSc in Physics and Mathematics at the Norwegian University of Science and Technology, Siri has gone on to study Composition at the Norwegian Academy of Music, while simultaneously working towards a PhD in Deep Learning.\nTBC."
+    "text": "Siri is an Oslo based composer, working mainly with instrumental music.\nAfter completing a MSc in Physics and Mathematics at the Norwegian University of Science and Technology, Siri is currently studying Composition at the Norwegian Academy of Music, while also working towards a PhD in Deep Learning.\nTBC."
   }
 ]
